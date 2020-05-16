@@ -22,5 +22,18 @@
           <li> Reverse The Number </li>
       </ul>
   </li>
+  <li>  DAY 3
+      <ul>
+          <li> Even Fibonacci numbers </li>
+          <li> Flip </li>
+          <li> Largest prime factor </li>
+          <li> Max Non Negative SubArray </li>
+          <li> Multiples of 3 and 5 </li>
+          <li> Pascal Triangle </li>
+          <li> Spiral Order Matrix II </li>
+          <li> Squared Subsequences </li>
+          <li> Unit GCD </li>
+      </ul>
+  </li>
   
 </ol>
