@@ -35,7 +35,7 @@
           <li> Unit GCD </li>
       </ul>
   </li>
-  <li>  DAY 
+  <li>  DAY 4
       <ul>
           <li> Anti Diagonals </li>
           <li> Carvans </li>
