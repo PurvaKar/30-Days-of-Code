@@ -35,5 +35,16 @@
           <li> Unit GCD </li>
       </ul>
   </li>
+  <li>  DAY 
+      <ul>
+          <li> Anti Diagonals </li>
+          <li> Carvans </li>
+          <li> Coin Flip </li>
+          <li> Kth Row of Pascal's Triangle </li>
+          <li> Laddu </li>
+          <li> Noble Integer </li>
+          <li> Wormholes </li>
+      </ul>
+  </li>
   
 </ol>
