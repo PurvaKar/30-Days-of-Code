@@ -59,5 +59,17 @@
           <li> Wave Array </li>
       </ul>
   </li>
+  <li>  DAY 6
+      <ul>
+          <li> Bigger is Greater </li>
+          <li> Closest Numbers </li>
+          <li> Find Duplicate in Array </li>
+          <li> Lily's Homework </li>
+          <li> Mars Exploration </li>
+          <li> Max Distance </li>
+          <li> Maximum Consecutive Gap </li>
+          <li> Maximum Unsorted Subarray </li>
+      </ul>
+  </li>
   
 </ol>
