@@ -1,4 +1,4 @@
-<h1> DAY 2 </h1>
+<h1> DAY 4 </h1>
 <ul>
   <li> <h4> Anti Diagonals </h4> </li>
       <p> Give a N*N square matrix, return an array of its anti-diagonals. Look at the example for more details.
