@@ -46,5 +46,18 @@
           <li> Wormholes </li>
       </ul>
   </li>
+  <li>  DAY 5
+      <ul>
+          <li> Beautiful Days at the Movies </li>
+          <li> Candies </li>
+          <li> Greedy Florist </li>
+          <li> Hotel Bookings Possible </li>
+          <li> Largest Number </li>
+          <li> Lisa's Workbook </li>
+          <li> Sequence Equation </li>
+          <li> Triplets with Sum between given range </li>
+          <li> Wave Array </li>
+      </ul>
+  </li>
   
 </ol>
