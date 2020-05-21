@@ -82,5 +82,16 @@
           <li> Valid Anagram </li>
       </ul>
   </li>
+  <li>  DAY 8
+      <ul>
+          <li> Basic Calculator II </li>
+          <li> Count Primes </li>
+          <li> First Missing Integer </li>
+          <li> Happy Number </li>
+          <li> Isomorphic Strings </li>
+          <li> Merge Overlapping Intervals </li>
+          <li> Set Matrix Zeros </li>
+      </ul>
+  </li>
   
 </ol>
