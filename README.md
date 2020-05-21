@@ -71,5 +71,16 @@
           <li> Maximum Unsorted Subarray </li>
       </ul>
   </li>
+  <li>  DAY 7
+      <ul>
+          <li> Bitwise AND of Numbers Range </li>
+          <li> Find Permutation </li>
+          <li> Kth Largest Element in an Array </li>
+          <li> Next Permutation </li>
+          <li> Search Insert Position </li>
+          <li> Two Sum </li>
+          <li> Valid Anagram </li>
+      </ul>
+  </li>
   
 </ol>
