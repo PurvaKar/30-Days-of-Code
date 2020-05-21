@@ -35,15 +35,12 @@ public:
                     c=a*b;
                 else
                     c=a/b;
-                cout<<a<<" "<<b<<" "<<c<<endl;
                 num[i]=c;
                 num.erase(num.begin()+i+1);
                 op.erase(op.begin()+i);
                 i--;
             }
         }
-        for(i=0;i<num.size();i++)
-            cout<<num[i]<<" ";
         val=num[0];
         for(i=0;i<op.size();i++)
         {
