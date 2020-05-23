@@ -93,5 +93,18 @@
           <li> Set Matrix Zeros </li>
       </ul>
   </li>
+  <li>  DAY 9
+      <ul>
+          <li> Append and Delete </li>
+          <li> Chef of the Year </li>
+          <li> Distinct Pairs </li>
+          <li> Excel Column Number </li>
+          <li> Excel Column Title </li>
+          <li> Fencing </li>
+          <li> Grid Unique Paths </li>
+          <li> Prime Sum </li>
+          <li> Save Konoha </li>
+      </ul>
+  </li>
   
 </ol>
