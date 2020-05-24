@@ -106,5 +106,13 @@
           <li> Save Konoha </li>
       </ul>
   </li>
+  <li>  DAY 10
+      <ul>
+          <li> FizzBuzz </li>
+          <li> Palindrome Integer </li>
+          <li> Power Of Two Integers </li>
+          <li> Reverse integer </li>
+      </ul>
+  </li>
   
 </ol>
