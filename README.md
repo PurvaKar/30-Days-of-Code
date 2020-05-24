@@ -114,5 +114,14 @@
           <li> Reverse integer </li>
       </ul>
   </li>
+  <li>  DAY 11
+      <ul>
+          <li> All Factors </li>
+          <li> Greatest Common Divisor </li>
+          <li> Prime Numbers </li>
+          <li> Trailing Zeros in Factorial </li>
+          <li> Verify Prime </li>
+      </ul>
+  </li>
   
 </ol>
