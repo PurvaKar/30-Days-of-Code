@@ -123,5 +123,15 @@
           <li> Verify Prime </li>
       </ul>
   </li>
+  <li>  DAY 12
+      <ul>
+          <li> ARRAY_BUG </li>
+          <li> Lists </li>
+          <li> N/3 Repeat Number </li>
+          <li> Set .symmetric_difference() Operation </li>
+          <li> Set Mutations </li>
+          <li> Spiral Order Matrix I </li>
+      </ul>
+  </li>
   
 </ol>
