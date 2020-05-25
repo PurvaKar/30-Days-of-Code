@@ -1,0 +1,6 @@
+nE = int(input())
+english = set(list(map(int, input().split())))
+nF = int(input())
+french = set(list(map(int, input().split())))
+ans = english.symmetric_difference(french)
+print(len(ans))
