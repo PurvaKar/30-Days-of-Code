@@ -133,5 +133,12 @@
           <li> Spiral Order Matrix I </li>
       </ul>
   </li>
+  <li>  DAY 13
+      <ul>
+          <li> Largest Coprime Divisor </li>
+          <li> Rearrange Array </li>
+          <li> Sorted Permutation Rank </li>
+      </ul>
+  </li>
   
 </ol>
