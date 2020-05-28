@@ -140,5 +140,12 @@
           <li> Sorted Permutation Rank </li>
       </ul>
   </li>
+   <li>  DAY 14
+    <ul>
+          <li> Matrix Search </li>
+          <li> Search for a Range </li>
+          <li> Square Root of Integer </li>
+      </ul>
+  </li>
   
 </ol>
