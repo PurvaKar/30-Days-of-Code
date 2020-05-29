@@ -140,11 +140,19 @@
           <li> Sorted Permutation Rank </li>
       </ul>
   </li>
-   <li>  DAY 14
+  <li>  DAY 14
     <ul>
           <li> Matrix Search </li>
           <li> Search for a Range </li>
           <li> Square Root of Integer </li>
+      </ul>
+  </li>
+ <li>  DAY 15
+      <ul>
+          <li> Length of Last Word </li>
+          <li> Longest Common Prefix </li>
+          <li> Palindrome String </li>
+          <li> Reverse the String  </li>
       </ul>
   </li>
   
