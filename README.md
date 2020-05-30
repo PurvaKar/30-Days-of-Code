@@ -155,5 +155,12 @@
           <li> Reverse the String  </li>
       </ul>
   </li>
+  <li>  DAY 16
+      <ul>
+          <li> Count And Say </li>
+          <li> Minimum Characters required to make a String Palindromic </li>
+          <li> Roman To Integer </li>
+      </ul>
+  </li>
   
 </ol>
