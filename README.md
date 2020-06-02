@@ -175,5 +175,12 @@
           <li> Number of 1 Bits </li>
       </ul>
   </li>
+  <li>  DAY 19
+      <ul>
+          <li> Remove Duplicates from Sorted Array II </li>
+          <li> Remove Duplicates from Sorted Array </li>
+          <li> Remove Element from Array </li>
+      </ul>
+  </li>
   
 </ol>
