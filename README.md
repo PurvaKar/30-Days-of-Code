@@ -169,5 +169,11 @@
           <li> Longest Palindromic Substring </li>
       </ul>
   </li>
+  <li>  DAY 18
+      <ul>
+          <li> Intersection Of Sorted Arrays </li>
+          <li> Number of 1 Bits </li>
+      </ul>
+  </li>
   
 </ol>
