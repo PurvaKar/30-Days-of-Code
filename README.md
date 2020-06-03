@@ -182,5 +182,13 @@
           <li> Remove Element from Array </li>
       </ul>
   </li>
+  <li>  DAY 20
+      <ul>
+          <li> Atoi </li>
+          <li> Implement StrStr </li>
+          <li> Power of 2 </li>
+          <li> Zigzag String </li>
+      </ul>
+  </li>
   
 </ol>
