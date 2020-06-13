@@ -190,5 +190,44 @@
           <li> Zigzag String </li>
       </ul>
   </li>
+  <li>  DAY 21
+      <ul>
+          <li> Reverse Bits </li>
+          <li> Single Number II </li>
+          <li> Single Number </li>
+      </ul>
+  </li>
+  <li>  DAY 22
+      <ul>
+          <li> Diffk </li>
+          <li> Sort by Color </li>
+      </ul>
+  </li>
+  <li>  DAY 23
+      <ul>
+          <li> Amazing Subarrays </li>
+          <li> Different Bits Sum Pairwise </li>
+          <li> Min XOR value </li>
+      </ul>
+  </li>
+  <li>  DAY 24
+      <ul>
+          <li> 3 Sum </li>
+          <li> Container With Most Water </li>
+          <li> Merge Two Sorted Lists II </li>
+      </ul>
+  </li>
+  <li>  DAY 25
+      <ul>
+          <li> Remove Duplicates from Sorted List </li>
+          <li> Rotated Sorted Array Search </li>
+      </ul>
+  </li>
+  <li>  DAY 26
+      <ul>
+          <li> Merge Two Sorted Lists </li>
+          <li> Remove Duplicates from Sorted List II </li>
+      </ul>
+  </li>
   
 </ol>
