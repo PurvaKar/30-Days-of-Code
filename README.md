@@ -229,5 +229,11 @@
           <li> Remove Duplicates from Sorted List II </li>
       </ul>
   </li>
+  <li>  DAY 27
+      <ul>
+          <li> Remove Nth Node from List End </li>
+          <li> Rotate List </li>
+      </ul>
+  </li>
   
 </ol>
