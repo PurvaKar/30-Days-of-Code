@@ -235,5 +235,11 @@
           <li> Rotate List </li>
       </ul>
   </li>
+  <li>  DAY 28
+      <ul>
+          <li> Palindrome List </li>
+          <li> Reverse Link List II </li>
+      </ul>
+  </li>
   
 </ol>
