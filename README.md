@@ -247,5 +247,11 @@
           <li> Swap List Nodes in pairs </li>
       </ul>
   </li>
+  <li>  DAY 30
+      <ul>
+          <li> Add Two Numbers as Lists </li>
+          <li> List Cycle </li>
+      </ul>
+  </li>
   
 </ol>
