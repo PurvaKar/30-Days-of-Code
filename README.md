@@ -1,4 +1,4 @@
-<h1> 30-Days-of-Code </h1>
+<h1> 50-Days-of-Code </h1>
 
 <ol>
   
@@ -251,6 +251,13 @@
       <ul>
           <li> Add Two Numbers as Lists </li>
           <li> List Cycle </li>
+      </ul>
+  </li>
+  <li>  DAY 31
+      <ul>
+          <li> Nearest Smaller Element </li>
+          <li> Redundant Braces </li>
+          <li> Simplify Directory Path </li>
       </ul>
   </li>
   
