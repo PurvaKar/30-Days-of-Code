@@ -260,5 +260,10 @@
           <li> Simplify Directory Path </li>
       </ul>
   </li>
-  
+  <li>  DAY 32
+      <ul>
+          <li> Evaluate Expression </li>
+          <li> Rain Water Trapped </li>
+      </ul>
+  </li>
 </ol>
