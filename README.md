@@ -272,4 +272,10 @@
           <li> Sort List </li>
       </ul>
   </li>
+  <li>  DAY 34
+      <ul>
+          <li> Min Stack </li>
+          <li> Partition List </li>
+      </ul>
+  </li>
 </ol>
