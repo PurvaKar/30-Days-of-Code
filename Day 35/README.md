@@ -1,4 +1,4 @@
-<h1> DAY  </h1>
+<h1> DAY 35 </h1>
 <ul>
   <li> <h4> 2 Sum </h4> </li>
       <p>Given an array of integers, find two numbers such that they add up to a specific target number.
